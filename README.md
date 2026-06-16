@@ -1,5 +1,5 @@
 # 🚦 Movilidad Urbana y Productividad Económica en LATAM (2024)
-![Banner del proyecto](banner.png)
+![Banner del proyecto](banner.png.png)
 > **Proyecto de Análisis de Datos · TripleTen · 2026**  
 > Herramientas: Python · Pandas · NumPy · Seaborn · Matplotlib
 
